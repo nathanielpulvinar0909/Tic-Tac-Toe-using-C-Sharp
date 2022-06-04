@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TIC TAC TOE Project/1.0.0": {
+        "runtime": {
+          "TIC TAC TOE Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TIC TAC TOE Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

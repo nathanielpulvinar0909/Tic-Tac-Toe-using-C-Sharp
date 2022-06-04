@@ -1,0 +1,18 @@
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\bin\Debug\net6.0-windows\TIC TAC TOE Project.exe
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\bin\Debug\net6.0-windows\TIC TAC TOE Project.deps.json
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\bin\Debug\net6.0-windows\TIC TAC TOE Project.runtimeconfig.json
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\bin\Debug\net6.0-windows\TIC TAC TOE Project.dll
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\bin\Debug\net6.0-windows\TIC TAC TOE Project.pdb
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC TAC TOE Project.csproj.AssemblyReference.cache
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC_TAC_TOE_Project.Form1.resources
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC TAC TOE Project.csproj.GenerateResource.cache
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC TAC TOE Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC TAC TOE Project.AssemblyInfoInputs.cache
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC TAC TOE Project.AssemblyInfo.cs
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC TAC TOE Project.csproj.CoreCompileInputs.cache
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC TAC TOE Project.dll
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\refint\TIC TAC TOE Project.dll
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC TAC TOE Project.pdb
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC TAC TOE Project.genruntimeconfig.cache
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\ref\TIC TAC TOE Project.dll
+C:\Users\ASUS DEMO\source\repos\TIC TAC TOE Project\TIC TAC TOE Project\obj\Debug\net6.0-windows\TIC_TAC_TOE_Project.Properties.Resources.resources
